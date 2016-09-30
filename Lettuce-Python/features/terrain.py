@@ -4,8 +4,8 @@ from selenium import webdriver
 import lettuce_webdriver.webdriver
 
 
-username = 'chase@crossbrowsertesting.com'
-authkey = 'u81305495037f796'
+username = 'you@yourdomain.com'
+authkey = '12345'
 
 
 @before.all
