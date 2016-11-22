@@ -28,8 +28,8 @@
         "enabled" : false,
         "path" : ""
       },
-      "username": "chase@crossbrowsertesting.com",
-      "access_key": "u81305495037f796",
+      "username": "you@yourdomain.com",
+      "access_key": "yourauthkey",
       "desiredCapabilities": {
         "acceptSslCerts": "1",
         "browserName": "internet explorer",
