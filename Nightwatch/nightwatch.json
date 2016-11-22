@@ -36,7 +36,7 @@
         "browser_api_name": "IE10",
         "build": "1.0",
         "javascriptEnabled": "1",
-        "name": "Mediotiempo / Site / Assert Body",
+        "name": "NightwatchJSExample",
         "os_api_name" : "Win7x64-C2",
         "platform": "ANY",
         "record_network" : "true",
